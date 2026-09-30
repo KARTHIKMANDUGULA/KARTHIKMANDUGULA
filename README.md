@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Karthik Mandugula 👋
 
-<!--
-**KARTHIKMANDUGULA/KARTHIKMANDUGULA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Systems & Distributed Backend Engineer with a strong interest in multi-agent workflows, high-performance systems in C++, and applied Python development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Core Tech Stack
+
+- **Languages:** Python, C++, C, SQL
+- **Libraries & Tools:** Streamlit, Git, GitHub, VS Code
+- **Focus Areas:** Data Structures & Algorithms, Clean Architecture, Systems & AI
+
+---
+
+### 🚀 Featured Work
+
+- **[AgriConnect_MVP](https://github.com/KARTHIKMANDUGULA/AgriConnect_MVP):** Smart India Hackathon agricultural prototype platform.
+- **[expense_tracker](https://github.com/KARTHIKMANDUGULA/expense_tracker):** Practical expense management utility built in Python.
+- **[python_practice](https://github.com/KARTHIKMANDUGULA/python_practice):** Structured curriculum tracking foundational logic, data structures, and OOP design.
+
+---
+
+### 📫 Connect With Me
+
+- **Email:** mandugula.karthik.work@gmail.com
